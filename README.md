@@ -18,3 +18,11 @@ To run the notebook, place `spotify_songs_eda.csv` in the same folder as `FYP_KU
 ## Credits
 
 Original project by **Kumru Alagur**. [View the original repository](https://github.com/kumrualagur/FYP-KUMRU-ALAGUR-).
+
+## Evaluation extension
+
+[View the unseen-title evaluation notebook](./mood_evaluation.ipynb)
+
+This extension compares four classifiers on the dataset’s original and keyword-revised mood labels. Both evaluations use the same held-out songs, with repeated titles kept together to avoid overlap between training and testing.
+
+Results are pending access to the original `spotify_songs_eda.csv` dataset.
