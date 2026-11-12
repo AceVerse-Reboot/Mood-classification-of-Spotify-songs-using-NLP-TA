@@ -26,3 +26,7 @@ Original project by **Kumru Alagur**. [View the original repository](https://git
 This extension compares four classifiers on the dataset’s original and keyword-revised mood labels. Both evaluations use the same held-out songs, with repeated titles kept together to avoid overlap between training and testing.
 
 Results are pending access to the original `spotify_songs_eda.csv` dataset.
+
+## Spotify moods at a glance
+
+![Animated chart highlighting track counts and popularity for Happy, Love, Sad, and Party](./spotify-moods.gif)
